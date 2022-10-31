@@ -1,0 +1,238 @@
+.bgimagemobile{
+    width: auto;
+}
+#mobilealigncontainer {
+    left:0
+   
+  }
+  .mobileflexdivcontainer{
+    display: flex;
+    text-align: center;
+    float: left;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: center;
+    margin-left: 60px;
+    margin-top: 40px;
+    }
+
+ 
+    
+    .mobiletextdiv{
+    
+    text-align: left;
+    font: normal normal 800 29px/40px Poppins; 
+    color: #DC2D55;
+    }
+    .mobilecentertext1{
+    
+    text-align: left;
+    font: normal normal 800 29px/20px Poppins;
+    letter-spacing: 2.15px;
+    color: #141923;
+    }
+    
+    .mobiletextdiv2{
+      
+        
+        text-align: left;
+        font: normal normal 800 29px/40px Poppins;
+        letter-spacing: 2.15px;
+        color: #DC2D55;
+        }
+    .mobiletextdiv3{
+    
+      
+        text-align: left;
+        font: normal normal 800 20px/40px Poppins;
+        letter-spacing: 1.15px;
+        /* top: 0px;
+        left: 0px;
+       
+        text-align: left;
+        font: normal normal 400 35px/140px Poppins;
+        letter-spacing: 0px; */
+        color: #3D434B;
+    }
+    
+    .mobilecentertext2{
+      
+        font: normal normal 800 20px/40px Poppins;
+        color: #141923;
+        }
+    
+        .mobilecentertext3{
+            color: #141923;
+            font: normal normal 800 20px/40px Poppins;
+        }
+        .mobiletextdiv4{
+           
+           
+            text-align: left;
+            font: normal normal 800 18px/27px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+        .mobiletextdiv5{
+           
+           
+            text-align: left;
+            font: normal normal 800 16px/100px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+    .mobileimggooglepay {
+        top: 697px;
+        left: 1134px;
+        width: 150px;
+        height: 50px
+    }
+
+    @media(max-width: 375px) {
+        .mobileflexdivcontainer{
+
+            margin: inherit;
+            margin-left: 50px;
+
+        }
+      }
+      
+      @media only screen and (max-width: 280px)   {
+        .mobileimggooglepay {
+            top: 697px;
+            left: 1134px;
+            width: 100px;
+            height: 30px;
+        }
+        .mobiletextdiv4 {
+            text-align: left;
+            font: normal normal 800 12px/27px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+        .mobiletextdiv3 {
+            text-align: left;
+            font: normal normal 800 15px/20px Poppins;
+            letter-spacing: 1.15px;
+            color: #3D434B;
+        }
+        .mobiletextdiv2 {
+            text-align: left;
+            font: normal normal 800 20px/15px Poppins;
+            letter-spacing: 2.15px;
+            color: #DC2D55;
+        }
+        .mobilecentertext1 {
+            text-align: left;
+            font: normal normal 800 20px/15px Poppins;
+            letter-spacing: 2.15px;
+            color: #141923;
+        }
+        
+        .mobiletextdiv {
+            text-align: left;
+            font: normal normal 800 20px/30px Poppins;
+            color: #DC2D55;
+        }
+      }
+
+      .mobile-bar{
+        display: block;
+
+        width: 100%;
+        height: 50px;
+        align-content: space-between;
+        opacity: 1;
+        flex-direction: column;
+      }
+
+
+/*                                                        for Tablet                                                                 */
+
+
+
+
+
+.bgimagemobile{
+    width: auto;
+}
+#tabaligncontainer {
+    left:0
+   
+  }
+  .tabflexdivcontainer{
+    display: flex;
+    text-align: center;
+    float: left;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: center;
+    margin-left: 100px;
+    margin-top: 80px;
+    }
+
+ 
+    
+    .tabtextdiv{
+    
+        text-align: left;
+        font: normal normal 800 40px/40px Poppins;
+        color: #DC2D55;
+    }
+    .tabcentertext1{
+    
+        text-align: left;
+        font: normal normal 800 40px/50px Poppins;
+        letter-spacing: 2.15px;
+        color: #141923;
+    }
+    
+    .tabtextdiv2{
+      
+        
+        text-align: left;
+        font: normal normal 800 40px/40px Poppins;
+        letter-spacing: 2.15px;
+        color: #DC2D55;
+        }
+    .tabtextdiv3{
+    
+      
+        text-align: left;
+        font: normal normal 800 30px/40px Poppins;
+        letter-spacing: 1.15px;
+        color: #3D434B;
+    }
+    
+    .tabcentertext2{
+      
+        color: #141923;
+        font: normal normal 800 35px/40px Poppins;
+        }
+    
+        .tabcentertext3{
+            color: #141923;
+            font: normal normal 800 20px/40px Poppins;
+        }
+        .tabtextdiv4{
+           
+           
+            text-align: left;
+            font: normal normal 800 18px/27px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+        .tabtextdiv5{
+           
+           
+            text-align: left;
+            font: normal normal 800 16px/100px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+    .tabimggooglepay {
+        width: 190px;
+        height: 70px;
+    }

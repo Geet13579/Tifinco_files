@@ -1,0 +1,130 @@
+.emailheader{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+.subemailheader{
+
+    background-image: linear-gradient(to right top, rgb(164, 10, 51), rgb(154, 11, 51), rgb(145, 13, 51), rgb(135, 15, 51), rgb(125, 16, 50));
+    width: 100%;
+    height: 247px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.divheader1{
+    height: 40%;
+    text-align: center;
+}
+.divheader2{
+    width: 100%;
+    height: 40%;
+}
+.imagelogo{
+    background-image: url('./logo.png');
+    background-size: contain;
+    width: 170px;
+    height: 45px;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+}
+.textheader{
+    text-align: center;
+    color: white;
+    font: 900 40px Poppins;
+}
+.main_container{
+    background-color: white;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.main_div{
+    background-color: white;
+    width: 90%;
+    margin: 20px auto;
+}
+.main_text{
+    font: 500 15px Poppins;
+}
+.footer_container{
+    background-color: rgb(206, 212, 224);
+    width: 100%;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+.footer1{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+.footer11{
+    background-image: url('./facebook.png');
+    background-size: contain;
+    width: 50px;
+    height: 45px;
+    background-repeat: no-repeat;
+}
+.footer12{
+    background-image: url('./insta.png');
+    background-size: contain;
+    width: 50px;
+    height: 45px;
+    background-repeat: no-repeat;
+}
+.footer2{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+}
+.footer21{
+    font: 500 15px Poppins;
+}
+.footer3{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+.footer31{
+    font: 500 15px Poppins;
+}
+.footer4{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+.footer41{
+    font: 500 15px Poppins;
+}
+.footer5{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.footer51{
+    font: 500 15px Poppins;
+    text-align:center ;
+}

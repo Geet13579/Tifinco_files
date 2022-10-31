@@ -1,0 +1,17 @@
+[0;1;32m●[0m nginx.service - A high performance web server and a reverse proxy server
+     Loaded: loaded (/lib/systemd/system/nginx.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (running)[0m since Tue 2022-05-17 12:30:45 IST; 2 months 23 days ago
+       Docs: man:nginx(8)
+   Main PID: 2085 (nginx)
+      Tasks: 2 (limit: 2339)
+     Memory: 13.9M
+     CGroup: /system.slice/nginx.service
+             ├─   2085 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+             └─1973637 nginx: worker process
+
+May 17 12:30:45 ubuntu-s-1vcpu-2gb-amd-blr1-01 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mnginx.service: Failed with result 'timeout'.[0m
+May 17 12:30:45 ubuntu-s-1vcpu-2gb-amd-blr1-01 systemd[1]: Stopped A high performance web server and a reverse proxy server.
+May 17 12:30:45 ubuntu-s-1vcpu-2gb-amd-blr1-01 systemd[1]: Starting A high performance web server and a reverse proxy server...
+May 17 12:30:45 ubuntu-s-1vcpu-2gb-amd-blr1-01 nginx[2069]: nginx: [warn] could not build optimal proxy_headers_hash, you should increase either proxy_headers_hash_max_size: 512 or proxy_headers_hash_bucket_size: 64; ignoring proxy_headers_hash_bucket_size
+May 17 12:30:45 ubuntu-s-1vcpu-2gb-amd-blr1-01 nginx[2081]: nginx: [warn] could not build optimal proxy_headers_hash, you should increase either proxy_headers_hash_max_size: 512 or proxy_headers_hash_bucket_size: 64; ignoring proxy_headers_hash_bucket_size
+May 17 12:30:45 ubuntu-s-1vcpu-2gb-amd-blr1-01 systemd[1]: Started A high performance web server and a reverse proxy server.

@@ -1,0 +1,178 @@
+
+ 
+ @media screen and (max-width: 1535px) and (min-width: 860px)  {
+   .logo{
+     width: 5% !important;
+   
+   }
+   .rightmenu{
+     width: 95% !important;
+    
+   }
+  
+
+  }
+
+  @media screen and (max-width: 1150px){
+  .deskmaincardiv{
+    width: 50%;
+
+  }
+  .deskflexgradientdiv{
+    width: 50%;
+
+  }
+  .textdivcon{
+    width:65%
+  }
+ .mobileimage{
+  background-size: 431px;
+  width: 500px;
+  height: 310px;
+  background-repeat: no-repeat;
+  margin-left: 158px;
+
+ }
+
+ .Qrdiv{
+  width:49%;
+  left:50%;
+  position:relative;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  /* height: 50px; */
+
+}
+
+.Qrimage{
+  background-size: contain;
+  width: 455px;
+  height: 119px;
+  background-repeat: no-repeat;
+  margin-left: 20px;
+  margin-top: 143px;
+}
+
+   }
+
+   @media screen and (max-width: 1100px){
+    .deskfootercontainerflex
+    {
+      margin-bottom: 95px;
+  
+    }
+  
+   
+     }
+
+
+     /* @media screen and (max-width: 1555px){
+      .mobilediv
+      {
+        left: 40%;
+    
+      }
+    
+     
+       }
+     
+
+       @media screen and (max-width: 1468px){
+        .litable12
+        {
+          font: normal normal 500 16px Poppins;
+      
+        }
+      
+       
+         }
+
+         /* @media screen and (max-width: 1356px){
+          .litable12
+          {
+            font: normal normal 500 14px Poppins;
+        
+          }
+        
+         
+           } */
+         
+  
+  
+       /* @media screen and (max-width: 1600px){
+     
+  
+        .inputhoverborder{
+          border-radius: 5px;
+          padding: 5px;
+          outline: none;
+          border:1px solid #BFC1C5;
+          height:40px;
+          width:400px;
+          color:black;
+        } 
+
+         .inputhoverborder1{
+          border-radius: 5px;
+          padding: 5px;
+          outline: none;
+          border:1px solid #BFC1C5;
+          height:40px;
+          width:400px;
+          /* margin-left: 43px; */
+          /* color:black;
+        }
+      
+       
+         } */ 
+
+
+           
+         @media screen and (max-width: 1356px){
+          .litable12
+          {
+            font: normal normal 500 15px Poppins;
+        
+          }
+          .litable1{
+            font: normal normal 800 19px Poppins;
+          }
+          .litable2{
+            font: normal normal 800 15px Poppins;
+          }
+         
+           }
+
+           @media screen and (max-width: 1339px){
+
+            .changerediotext1{
+              text-align:center;
+              font: normal normal 500 13px Poppins
+
+            }
+            .changerediotext3{
+              text-align:center;
+              font: normal normal 500 13px Poppins
+
+            }
+
+           }
+
+
+           @media screen and (max-width: 1339px){
+
+            .changerediotext2{
+              text-align:center;
+              font: normal normal 800 13px Poppins
+
+            }
+            /* .changerediotext3{
+              text-align:center;
+              font: normal normal 500 13px Poppins
+
+            } */
+
+           }

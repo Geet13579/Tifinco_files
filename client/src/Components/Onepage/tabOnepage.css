@@ -1,0 +1,481 @@
+
+.bgimagemobile{
+    width: auto;
+}
+#tabaligncontainer {
+    left:0
+   
+  }
+  .tabflexdivcontainer{
+    display: flex;
+    text-align: center;
+    float: left;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: center;
+    margin-left: 100px;
+    margin-top: 80px;
+    }
+
+ 
+    
+    .tabtextdiv{
+    
+        text-align: left;
+        font: normal normal 800 40px/40px Poppins;
+        color: #DC2D55;
+    }
+    .tabcentertext1{
+    
+        text-align: left;
+        font: normal normal 800 40px/50px Poppins;
+        letter-spacing: 2.15px;
+        color: #141923;
+    }
+    
+    .tabtextdiv2{
+      
+        
+        text-align: left;
+        font: normal normal 800 40px/40px Poppins;
+        letter-spacing: 2.15px;
+        color: #DC2D55;
+        }
+    .tabtextdiv3{
+    
+      
+        text-align: left;
+        font: normal normal 800 30px/40px Poppins;
+        letter-spacing: 1.15px;
+        color: #3D434B;
+    }
+    
+    .tabcentertext2{
+      
+        color: #141923;
+        font: normal normal 800 35px/40px Poppins;
+        }
+    
+        .tabcentertext3{
+            color: #141923;
+            font: normal normal 800 20px/40px Poppins;
+        }
+        .tabtextdiv4{
+           
+           
+            text-align: left;
+            font: normal normal 800 18px/27px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+        .tabtextdiv5{
+           
+           
+            text-align: left;
+            font: normal normal 800 16px/100px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+    .tabimggooglepay {
+        width: 190px;
+        height: 70px;
+    }
+    .tabbutn{
+        width: 200px;
+        height: 45px;
+        text-align: center;
+        /* UI Properties */
+        background: #DC2D5580 0% 0% no-repeat padding-box;
+        border-radius: 5px;
+        opacity: 1;
+
+    }
+    .tabtxt{
+        width: 275px;
+        height: 40px;
+        text-align: left;
+        font: normal normal 600 13px/40px Poppins;
+        letter-spacing: 1px;
+        color: #FFFFFF;
+        opacity: 1;
+        text-align: center
+
+
+    }
+
+.maintabflexdivcontainerdiv{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 650px;
+
+}
+
+.tabflexdivcontainerdiv1{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+
+
+}
+.tabflexdivcontainerdiv2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+
+
+}
+.flexgradientdiv{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    /* padding-top: 50px; */
+    width: 40%;
+    justify-content: center;
+}
+   
+
+.tabcardcontainerhandle1{   
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 50px;
+
+}
+
+.tabcardcontainerhandle2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+   
+
+
+
+}
+.tabcardflex1 {
+    width: 45%;
+    /* background-color: #DA234D; */
+    height: 180px;
+    border-radius: 5px;
+
+
+}
+.tabcardflex2{
+    width: 45%;
+    /* background-color: #141923; */
+    height: 180px;
+    border-radius: 5px;
+}
+
+
+
+.tabtextcontainerhandle1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+   
+    text-align: center;
+
+
+}
+.tabtextcontainerhandle2{   
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+   
+    text-align: center;
+}
+.tabtextflex1 {
+    width: 45%;
+    font:normal normal 600 14px Poppins;
+    padding: 10px;
+    /* background-color: #DA234D; */
+   
+   
+
+}
+.tabtextflex2{
+    width: 45%;
+    font:normal normal 600 14px Poppins;
+    padding: 10px;
+    /* background-color: #141923; */
+   
+   }
+
+   .tabflexcontainer{
+       display: flex !important;
+       width: 100%;
+       justify-content: space-evenly;
+      
+       flex-direction: row;
+       flex-wrap: wrap;
+   }
+   .tabmaincardiv{
+    height: 50%;
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+
+.tabfootercontainerflex{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 37px;
+    padding-bottom: 60px;
+    justify-content: space-between;
+   
+   
+    
+   }
+   .tabfootercontainerflex1{
+    width: 50%;
+    text-align: left;
+    height: 160px;
+  
+   }
+   .tabfootercontainerflex2{
+    width: 50%;
+    display: contents;
+ 
+    height: 160px;
+    
+  
+   }
+   .tabfooterparagraph{
+       color: #FFFFFF;
+       
+
+   }
+   .tabendfooterflex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+    background-color:#DE3960;
+    height:120px;
+    align-items: center;
+   
+   }
+   .tabendfooterflex1{
+    height: 35%;
+    font:"normal normal 700 12px/25px Poppins";
+    color: #FFFFFF;
+    
+   }
+   .endfooterflex2{
+    height: 65%;
+    font:"normal normal 700 12px/25px Poppins";
+    color: #FFFFFF;
+    width: 60%;
+    text-align: center;
+   }
+
+   .Typewriter__cursor{
+    display: none !important;
+  }
+  .tabflexanimation{
+    height: 40%;
+    text-align: center;
+   
+  }
+  .tabpostionfixediv{
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+
+  }
+
+  .tabendfooterflex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+    background-color:#DE3960;
+    height:120px;
+    align-items: center;
+   
+   }
+   .tabendfooterflex1{
+    height: 35%;
+    font:"normal normal 700 12px/25px Poppins";
+    color: #FFFFFF;
+    
+   }
+   .tabendfooterflex2{
+    height: 65%;
+    font:"normal normal 700 12px/25px Poppins";
+    color: #FFFFFF;
+    width: 60%;
+    text-align: center;
+   }
+.tabfelxdia{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.tabmaintabluardiv{
+    width: 162%;
+    /* background-color: aquamarine; */
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .tabcolm1{
+    width: 40%;
+    /* background-color: red; */
+  
+  }
+  
+  .tabcolm2{
+    width: 17%;
+    /* background-color: yellow; */
+  
+  }
+  .tabcolm3{
+    width: 17%;
+    /* background-color: blue; */
+  
+  }
+  .tabcolm4{
+    width: 17%;
+    /* background-color: forestgreen; */
+  
+  }
+
+  .tablisttable1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+  }
+  .tablisttable2{
+    display: flex;
+    flex-direction: column;
+  }
+  .tablisttable3{
+    display: flex;
+    flex-direction: column;
+  }
+  .tablisttable4{
+    display: flex;
+    flex-direction: column;
+  }
+  .tablitable{
+    position: relative;
+    font: normal normal 700 22px Poppins;
+      display: block;
+      padding: 5px;
+      padding-left: 0;
+      color: #9A9A9A;
+      text-decoration: none;
+      background-color: #fff;
+      text-align: center;
+  
+  }
+  .tablitable1{
+  
+    position: relative;
+    display: block;
+    
+    color: #212529;
+    text-decoration: none;
+    background-color: #fff;
+    border: "none";
+    font: normal normal 800 19px Poppins;
+    padding-left: 20px;
+    /* text-align: center; */
+  
+  }
+  .tablitable2{
+  
+    position: relative;
+    display: block;
+   
+    color:#9A9A9A;
+    text-decoration: none;
+    background-color: #fff;
+    border: "none";
+    font: normal normal 800 15px Poppins;
+    padding-left: 10px;
+    text-align: center;
+  
+  }
+  .tablitable12{
+    font: normal normal 500 15px Poppins;
+    text-transform:capitalize;
+    color: #212529;
+    position: relative;
+    display: block;
+    padding: 0.8rem 1rem;
+    text-decoration: none;
+    background-color: #fff;
+    /* text-align: center; */
+  
+  }
+
+  .tabchangerediotext1{
+    text-align: center;
+    font: normal normal 500 12px Poppins;
+    margin-top: 10px;
+  
+  }
+  .tabchangerediotext2{
+    text-align:center;
+    font: normal normal 800 14px Poppins
+  
+  }
+  .tabchangerediotext3{
+    text-align: center;
+    font: normal normal 500 12px Poppins;
+  
+  }
+
+  .tabpaybookbtn {
+    font: normal normal 600 12px/29px Poppins;
+    background-color: #DA234D;
+    color: #FFFFFF;
+    width: 40%;
+    height: auto;
+    border-radius: 5px;
+    opacity: 1;
+    backdrop-filter: blur(50px);
+    -webkit-backdrop-filter: blur(50px);
+    margin-bottom: 20px;
+    border-radius: 5px !important;
+}
+
+.tabdispaybookbtn{
+    font: normal normal 600 16px/29px Poppins;
+    color: #FFFFFF;
+    width: 40%;
+    height: auto;
+    /* margin-left: 26px; */
+  
+    opacity: 1;
+    backdrop-filter: blur(50px);
+    -webkit-backdrop-filter: blur(50px);
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+    border-radius: 5px !important;
+}

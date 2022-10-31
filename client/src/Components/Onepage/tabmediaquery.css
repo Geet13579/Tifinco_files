@@ -1,0 +1,79 @@
+ @media screen and (max-width: 1008px) and (min-width: 835px) {
+   .tabcardflex1{
+       height: 200px !important;
+       width: 47%;
+   }
+   .tabcardflex2{
+       height: 200px !important;
+       width: 47%;
+
+   }
+   .cardflex1{
+    height: 230px;
+    width: 47%;
+
+   }
+   .cardflex2{
+    height: 230px;
+    width: 47%;
+       
+   }
+     }
+
+     @media screen and (max-width: 835px) and (min-width: 470px) {
+        .tabcardflex1{
+            height: 170px !important;
+            width: 47%;
+        }
+        .tabcardflex2{
+            height: 170px !important;
+            width: 47%;
+     
+        }
+        .cardflex1{
+         height: 230px;
+         width: 47%;
+     
+        }
+        .cardflex2{
+         height: 230px;
+         width: 47%;
+            
+        }
+          }
+          @media screen and (max-width: 470px) and (min-width: 400px) {
+            .tabcardflex1{
+                height: 170px !important;
+                width: 47%;
+            }
+            .tabcardflex2{
+                height: 170px !important;
+                width: 47%;
+         
+            }
+            .cardflex1{
+             height: 170px;
+             width: 47%;
+         
+            }
+            .cardflex2{
+             height:170px;
+             width: 47%;
+                
+            }
+              }
+
+
+              @media screen and (max-width: 300px) and (min-width: 200px) {
+              
+                .cardflex1{
+                 height: 120px;
+                 width: 47%;
+             
+                }
+                .cardflex2{
+                 height:120px;
+                 width: 47%;
+                    
+                }
+                  }

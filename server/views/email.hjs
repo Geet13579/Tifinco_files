@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Rock Paper Scissors Game</title>
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="demo.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+     <div class='emailheader' >
+        <div class='subemailheader' >
+     
+       
+          
+          <div class='divheader1' >
+
+          <div class='imagelogo' ></div> 
+          
+          </div>
+          <div class='divheader2' >
+
+            <h1 class='textheader' >THANK YOU !</h1>
+          </div>
+        </div>
+
+        <div class='main_container'>
+
+          <div class='main_div'  >
+
+            <h1 class='main_text' >Hey there,</h1>
+            <h1 class='main_text' > Thankyou for subscribing to tifinco newsletter. We are glad that you’re interested in us. We are working hard to launch the app as soon as possible.</h1>
+            <h1 class='main_text' >As a newsletter subscriber you’ll receive all the update re- garding our app launch, subscription, offers and discounts.</h1>
+            <h1 class='main_text' >We promise to not to spam your inbox with un-necessary mails.</h1>
+            <h1  class='main_text' >Thankyou, <p >Team Tifinco</p></h1>
+           
+
+
+          </div>
+
+        </div>
+
+
+        <div class='footer_container' >
+        <div class='footer1' >
+          
+          <p class='footer11' ></p>
+          <p  class='footer12' ></p>
+          
+        </div>
+        <div class='footer2' >
+          
+          <p class='footer21' >+91 81036 09515 <span class='footer21' >+91 9174847010</span></p>
+       
+
+        </div>
+        <div class='footer3' >
+          
+          <p class='footer31' >support@tifinco.com</p>
+         
+        </div>
+        <div class='footer4' >
+          
+         
+          <p class='footer41' >www.tifinco.com</p>
+          
+
+        </div>
+        <div class='footer5' >
+          
+          <p class='footer51' >You are receiving this email because you have subscribed to our newsletter</p>
+         
+        </div>
+
+
+
+        </div>
+    <script src="app.js"></script>
+</body>
+</html>

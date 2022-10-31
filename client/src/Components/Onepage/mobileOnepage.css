@@ -1,0 +1,604 @@
+.mobilerightmenu{
+    width: 60%;
+    display: flex;
+    text-align: right;
+    font: normal normal 500 22px/25px Poppins;
+    letter-spacing: 1.1px;
+    color: #FFFFFF;
+    opacity: 1;
+    float: right;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+
+}
+
+.bgimagemobile{
+    width: auto;
+}
+#mobilealigncontainer {
+    left:0;
+
+   
+  }
+  .mobileflexdivcontainer{
+    display: flex;
+    text-align: center;
+    float: left;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: center;
+    margin-left: 60px;
+    margin-top: 40px;
+    }
+
+ 
+    
+    .mobiletextdiv{
+    
+    text-align: left;
+    font: normal normal 800 29px/40px Poppins; 
+    color: #DC2D55;
+    }
+    .mobilecentertext1{
+    
+    text-align: left;
+    font: normal normal 800 29px/20px Poppins;
+    letter-spacing: 2.15px;
+    color: #141923;
+    }
+    
+    .mobiletextdiv2{
+      
+        
+        text-align: left;
+        font: normal normal 800 29px/40px Poppins;
+        letter-spacing: 2.15px;
+        color: #DC2D55;
+        }
+    .mobiletextdiv3{
+    
+      
+        text-align: left;
+        font: normal normal 600 20px/40px Poppins;
+        letter-spacing: 1.15px;
+        /* top: 0px;
+        left: 0px;
+       
+        text-align: left;
+        font: normal normal 400 35px/140px Poppins;
+        letter-spacing: 0px; */
+        color: #3D434B;
+    }
+    
+    .mobilecentertext2{
+      
+        font: normal normal 600 20px/40px Poppins;
+        color: #141923;
+        }
+    
+        .mobilecentertext3{
+            color: #141923;
+            font: normal normal 600 20px/40px Poppins;
+        }
+        .mobiletextdiv4{
+           
+           
+            text-align: left;
+            font: normal normal 600 12px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+        .mobiletextdiv5{
+           
+           
+            text-align: left;
+            font: normal normal 600 16px/100px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+    .mobileimggooglepay {
+        top: 697px;
+        left: 1134px;
+        width: 154px;
+        height: 45px
+    }
+
+    @media(max-width: 375px) {
+        .mobileflexdivcontainer{
+
+            margin: inherit;
+            margin-left: 50px;
+
+        }
+      }
+      
+      @media only screen and (max-width: 280px)   {
+        .mobileimggooglepay {
+            top: 697px;
+            left: 1134px;
+            width: 100px;
+            height: 30px;
+        }
+        .mobiletextdiv4 {
+            text-align: left;
+            font: normal normal 800 12px Poppins;
+            letter-spacing: 0.00;
+            color: #535A64;
+        }
+        .mobiletextdiv3 {
+            text-align: left;
+            font: normal normal 800 15px/20px Poppins;
+            letter-spacing: 1.15px;
+            color: #3D434B;
+        }
+        .mobiletextdiv2 {
+            text-align: left;
+            font: normal normal 800 20px/15px Poppins;
+            letter-spacing: 2.15px;
+            color: #DC2D55;
+        }
+        .mobilecentertext1 {
+            text-align: left;
+            font: normal normal 800 20px/15px Poppins;
+            letter-spacing: 2.15px;
+            color: #141923;
+        }
+        
+        .mobiletextdiv {
+            text-align: left;
+            font: normal normal 800 20px/30px Poppins;
+            color: #DC2D55;
+        }
+      }
+
+      .mobile-bar{
+        display: block;
+
+        width: 100%;
+        height: 50px;
+        align-content: space-between;
+        opacity: 1;
+        flex-direction: column;
+      }
+
+      .mobilelogo{
+        display: inline-block;
+        width: 40%;
+        text-align: left;
+        font: normal normal 500 22px/25px Poppins;
+        letter-spacing: 1.1px;
+        color: #FFFFFF;
+        opacity: 1;
+       
+      
+      }
+      .rightmenu{
+        width: 60%;
+        display: flex;
+        text-align: right;
+        font: normal normal 500 22px/25px Poppins;
+        letter-spacing: 1.1px;
+        color: #FFFFFF;
+        opacity: 1;
+        float: right;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-end;
+      }
+
+      .mobile-bar{
+        display: block;
+      
+        width: 100%;
+        height: 50px;
+        align-content: space-between;
+        opacity: 1;
+        flex-direction: column;
+      
+        
+      }
+
+      .dialogconatiner{
+          width: 70%;
+          margin-left: auto;
+          background-color: #DA234D;
+      }
+
+.mobilebuttonchange{
+
+    font: normal normal 600 16px/25px Poppins;
+    background-color: #191A1C;
+    color: #FFFFFF;
+   
+    width: auto;
+    height: auto;
+
+    border-radius: 5px;
+    opacity: 1;
+    backdrop-filter: blur(50px);
+    -webkit-backdrop-filter: blur(50px);
+    margin-top: 20px;
+
+
+   
+}
+.mobilebutn{
+ width: 190px;
+height: 40px;
+text-align: center;
+/* UI Properties */
+background: #DC2D5580 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+
+}
+.mobiletxt{
+    width: 275px;
+    height: 40px;
+    text-align: left;
+    font: normal normal 600 12px/40px Poppins;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center
+}
+
+.gradientdiv{
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 40px;
+}
+
+
+.maincardiv{
+    height: 50%;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+
+.cardcontainerhandle1{   
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 50px;
+
+}
+
+.cardcontainerhandle2{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+   
+
+
+
+}
+.cardflex1 {
+    width: 45%;
+    /* background-color: #DA234D; */
+    height: 160px;
+    border-radius: 5px;
+
+
+}
+.cardflex2{
+    width: 45%;
+    /* background-color: #141923; */
+    height: 160px;
+    border-radius: 5px;
+}
+
+
+
+.textcontainerhandle1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+   
+    text-align: center;
+
+
+}
+.textcontainerhandle2{   
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+   
+    text-align: center;
+}
+.textflex1 {
+    width: 45%;
+    font:normal normal 600 14px Poppins;
+    padding: 10px;
+    /* background-color: #DA234D; */
+   
+   
+
+}
+.textflex2{
+    width: 45%;
+    font:normal normal 600 14px Poppins;
+    padding: 10px;
+    /* background-color: #141923; */
+   
+   }
+
+   .footercontainerflex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 37px;
+    padding-bottom: 60px;
+   
+   
+    
+   }
+   .footercontainerflex1{
+    width: 50%;
+    text-align: left;
+    height: 160px;
+  
+   }
+   .footercontainerflex2{
+    width: 50%;
+    display: contents;
+ 
+    height: 160px;
+    
+  
+   }
+   .footerparagraph{
+       color: #FFFFFF;
+       font:"normal normal 700 12px/20px Poppins"
+
+   }
+   .endfooterflex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+    background-color:#DE3960;
+    height:120px;
+    align-items: center;
+   
+   }
+   .endfooterflex1{
+    height: 35%;
+    font:"normal normal 700 12px/25px Poppins";
+    color: #FFFFFF;
+    
+   }
+   .endfooterflex2{
+    height: 65%;
+    font:"normal normal 700 12px/25px Poppins";
+    color: #FFFFFF;
+    width: 60%;
+    text-align: center;
+   }
+   .mobileflexanimation{
+    height: 40%;
+    text-align: center;
+   
+  }
+  .mobilepostionfixediv{
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+
+
+
+}
+
+.mobiledisproceedbtn{
+
+  font: normal normal 600 16px/25px Poppins;
+  color: #FFFFFF;
+  width: 87%;
+  height: 37px;
+  border-radius: 5px;
+  opacity: 1;
+  backdrop-filter: blur(50px);
+  -webkit-backdrop-filter: blur(50px);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 19px;
+      
+     
+}
+
+.mobileproceedbtn{
+    font: normal normal 600 16px/25px Poppins;
+    background-color: #DA234D;
+    color: #FFFFFF;
+    width: 87%;
+  height: 37px;
+  border-radius: 5px;
+  opacity: 1;
+  backdrop-filter: blur(50px);
+  -webkit-backdrop-filter: blur(50px);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 19px;
+}
+
+.mobileproceedbtn:hover {
+
+    box-shadow: 0 4px 15px 0 rgba(25, 27, 27, 0.75);
+    transform: translateY(-0.10em);
+    color: #FFFFFF;
+  
+  }
+
+  .dialogtextfont{
+    font:normal normal 700 14px/15px Poppins;
+  }
+  
+
+  .felxdia{
+    display: flex;
+    flex-direction: column;
+    height: 185px;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .felxdia1{
+    display: flex;
+    flex-direction: column;
+    height: 145px;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .mobilemaintabluardiv{
+    width: 162%;
+    /* background-color: aquamarine; */
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .mobilecolm1{
+    width: 40%;
+    /* background-color: red; */
+  
+  }
+  
+  .mobilecolm2{
+    width: 17%;
+    /* background-color: yellow; */
+  
+  }
+  .mobilecolm3{
+    width: 17%;
+    /* background-color: blue; */
+  
+  }
+  .mobilecolm4{
+    width: 17%;
+    /* background-color: forestgreen; */
+  
+  }
+
+  .molisttable1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+  }
+  .molisttable2{
+    display: flex;
+    flex-direction: column;
+  }
+  .molisttable3{
+    display: flex;
+    flex-direction: column;
+  }
+  .molisttable4{
+    display: flex;
+    flex-direction: column;
+  }
+  .molitable{
+    position: relative;
+    font: normal normal 700 14px Poppins;
+      display: block;
+      padding: 5px;
+      padding-left: 0;
+      color: #9A9A9A;
+      text-decoration: none;
+      background-color: #fff;
+      text-align: center;
+  }
+  .molitable1{
+  
+    position: relative;
+    display: block;
+    
+    color: #212529;
+    text-decoration: none;
+    background-color: #fff;
+    border: "none";
+    font: normal normal 800 14px Poppins;
+    padding-left: 17px;
+  
+  
+  }
+  .molitable2{
+  
+    position: relative;
+    display: block;
+   
+    color:#9A9A9A;
+    text-decoration: none;
+    background-color: #fff;
+    border: "none";
+    font: normal normal 800 9px Poppins;
+    text-align: center;
+  
+  }
+  .molitable12{
+    font: normal normal 500 9px Poppins;
+    text-transform:capitalize;
+    color: #212529;
+    position: relative;
+    display: block;
+    padding: 0.7rem 1rem;
+    text-decoration: none;
+    background-color: #fff;
+  
+  }
+
+  .mochangerediotext1{
+    text-align: center;
+    font: normal normal 500 9px Poppins;
+    margin-top: 10px;
+  
+  }
+  .mochangerediotext2{
+    text-align:center;
+    font: normal normal 800 12px Poppins
+  
+  }
+  .mochangerediotext3{
+    text-align: center;
+    font: normal normal 500 9px Poppins;
+  
+  }
+
+  .mopaybookbtn {
+    font: normal normal 600 10px Poppins;
+    background-color: #DA234D;
+    color: #FFFFFF;
+    width: 42%;
+    height: 34px;
+    border-radius: 5px;
+    opacity: 1;
+    backdrop-filter: blur(50px);
+    -webkit-backdrop-filter: blur(50px);
+    margin-bottom: 20px;
+    border-radius: 5px !important;
+}
+
+.modispaybookbtn{
+  font: normal normal 600 16px/25px Poppins;
+  color: #FFFFFF;
+  width: 36%;
+  height: 37px;
+  border-radius: 5px !important;
+  opacity: 1;
+  backdrop-filter: blur(50px);
+  -webkit-backdrop-filter: blur(50px);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cron-job-manager": "^2.3.1"
+  }
+}

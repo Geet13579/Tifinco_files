@@ -1,0 +1,290 @@
+.menumaintabluardiv{
+    width: 100%;
+    /* background-color: aquamarine; */
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .menucolm1{
+    width: 25%;
+    /* background-color: red; */
+  
+  }
+  .listspan{
+
+    height:10px;
+    background-color:#e3efe8;
+  }
+  .listspan1{
+    height:10px;
+    background-color:#f3ccd59e;
+  }
+  .menucolm2{
+    width: 20%;
+    /* background-color: yellow; */
+  
+  }
+  .menucolm3{
+    width: 20%;
+    /* background-color: blue; */
+  
+  }
+  .menucolm4{
+    width: 20%;
+    /* background-color: forestgreen; */
+  
+  }
+  .headerli{
+    font: normal normal 700 25px Poppins;
+    color:#bf1d42;
+    list-style:none;
+  }
+  
+  /* .dialogchngewidth{
+    width: 52%;
+    max-width:500px
+  } */
+  
+  .menulisttable1{
+    display: flex;
+    flex-direction: column;
+  
+  }
+  .menulisttable2{
+    display: flex;
+    flex-direction: column;
+  }
+  .menulisttable3{
+    display: flex;
+    flex-direction: column;
+  }
+  .menulisttable4{
+    display: flex;
+    flex-direction: column;
+  }
+  .menulitable{
+    position: relative;
+    font: normal normal 700 18px Poppins;
+      display: block;
+            color: #9A9A9A;
+      text-decoration: none;
+     
+  
+  }
+
+  .menulitablefont{
+    position: relative;
+    font: normal normal 700 25px Poppins;
+      display: block;
+            color: #9A9A9A;
+      text-decoration: none;
+     
+  
+  }
+  .menulitablelig{
+    position: relative;
+    font: normal normal 500 18px Poppins;
+      display: block;
+            color: #9A9A9A;
+      text-decoration: none;
+  }
+  .menuliheadtable1{
+  
+    position: relative;
+    display: block;
+       color: black;
+    text-decoration: none;
+   
+    border: "none";
+    font: normal normal 800 22px Poppins
+  
+  }
+  .spanheight1{
+    height: 25px;
+  }
+  .menulitable1{
+  
+    position: relative;
+    display: block;
+       color: #bf1d42;
+    text-decoration: none;
+   
+    border: "none";
+    font: normal normal 800 22px Poppins
+  
+  }
+  .setspanhieght{
+    height:38px;
+  }
+
+  .menulitable2{
+  
+    position: relative;
+    display: block;
+       color:#bf1d42;
+    text-decoration: none;
+   
+    border: "none";
+    font: normal normal 800 22px Poppins
+  
+  }
+  .menulitable12{
+    font: normal normal 500 18px Poppins;
+    text-transform:capitalize;
+    color: #212529;
+    position: relative;
+    display: block;
+       text-decoration: none;
+   
+  
+  }
+
+  @media only screen and (max-width: 1460px)   {
+    .menucolm1{
+        width: 35%;
+        /* background-color: red; */
+      
+      }
+      
+      .menucolm2{
+        width: 15%;
+        /* background-color: yellow; */
+      
+      }
+      .menucolm3{
+        width: 15%;
+        /* background-color: blue; */
+      
+      }
+      .menucolm4{
+        width: 15%;
+        /* background-color: forestgreen; */
+      
+      }
+  }
+
+  @media only screen and (max-width: 1080px)   {
+    .menumaintabluardiv{
+        width: 100%;
+        /* background-color: aquamarine; */
+        height: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+      }
+    .menucolm1{
+        width: 40% !important;
+        /* background-color: red; */
+      
+      }
+      
+      .menucolm2{
+        width: 20%;
+        /* background-color: yellow; */
+      
+      }
+      .menucolm3{
+        width: 20%;
+        /* background-color: blue; */
+      
+      }
+      .menucolm4{
+        width: 20%;
+        /* background-color: forestgreen; */
+      
+      }
+      .menuliheadtable1{
+  
+        position: relative;
+        display: block;
+           color: black;
+        text-decoration: none;
+       
+        border: "none";
+        font: normal normal 800 11px Poppins
+      
+      }
+      .menulitable12 {
+        font: normal normal 500 11px Poppins;
+        text-transform: capitalize;
+        color: #212529;
+        position: relative;
+        display: block;
+        text-decoration: none;
+    }
+      .headerli {
+        font: normal normal 700 15px Poppins;
+        color: #bf1d42;
+        list-style: none;
+    }
+    .setspanhieght {
+        height: 35px;
+    }
+      .menulitable1 {
+        position: relative;
+        display: block;
+        color: #bf1d42;
+        text-decoration: none;
+        border: "none";
+        font: normal normal 800 14px Poppins;
+    }
+    .menulitable2 {
+        position: relative;
+        display: block;
+        color: #bf1d42;
+        text-decoration: none;
+        border: "none";
+        font: normal normal 800 14px Poppins;
+    }
+    .menulitablefont {
+        position: relative;
+        font: normal normal 700 14px Poppins;
+        display: block;
+        color: #9A9A9A;
+        text-decoration: none;
+    }
+    .menulitablelig {
+        position: relative;
+        font: normal normal 500 9px Poppins !important;
+        display: block;
+        color: #9A9A9A;
+        text-decoration: none;
+    }
+    .listspan{
+
+        height:5px;
+        background-color:#e3efe8;
+      }
+
+      .spanheight1 {
+        height: 12px;
+    }
+    .listspan1{
+        height:5px;
+        background-color:#f3ccd59e;
+      }
+  }
+
+
+
+
+
+  @media only screen and (max-width: 490px)   {
+    .menumaintabluardiv{
+        width: 160%;
+        /* background-color: aquamarine; */
+        height: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+      }
+
+      .listspan {
+        height: 4px;
+        background-color: #e3efe8;
+    }
+    .spanheight1 {
+        height: 26px;
+    }
+  }
